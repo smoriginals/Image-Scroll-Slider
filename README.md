@@ -1,2 +1,1 @@
-# Image-Scroll-Slider
- creating a scroll slider
+[OPEN IN BROWSER](https://smos-github.github.io/Image-Scroll-Slider/)
