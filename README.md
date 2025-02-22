@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Image-Scroll-Slider/)
+[OPEN IN BROWSER](https://smoriginals.github.io/Image-Scroll-Slider/)
